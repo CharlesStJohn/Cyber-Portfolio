@@ -1,36 +1,27 @@
-# 🔴 Pillar 2: Offensive Operations
+# Pillar 2: Offensive Operations
 
-<br>
-Welcome to the offensive operations and reconnaissance hub.
-<br><br>
-This section demonstrates the application of ethical hacking techniques, showing proficiency in reconnaissance, vulnerability scanning, and understanding common attack vectors. This knowledge is crucial for proactive defence and effective threat hunting.
+This section documents the practical application of ethical hacking and reconnaissance techniques. It demonstrates a structured understanding of common attack vectors, service enumeration, and proactive threat hunting methodologies.
 
-<br>The projects below showcase the practical application of offensive principles, directly mapping to the knowledge validated by my **CompTIA PenTest+** certification.
+These proof-of-concept labs serve as the practical application of the theoretical frameworks validated by my CompTIA PenTest+ certification.
 
-## 🏛️ The Offensive Strategy
-In line with my **"Measure Four Times and Cut Once"** philosophy, I prioritise a structured approach to every engagement:
-* **Information Gathering:** Exhaustive reconnaissance to map the attack surface.
-* **Vulnerability Analysis:** Systematic identification of weaknesses before attempting exploitation.
-* **Precision Exploitation:** Using targeted payloads to verify vulnerabilities while maintaining system stability.
-
-<br>
-
-## 📂 Showcase Projects: The Technical Bridge (2026)
-
-| Project Title | Focus | Status | Expected Skills/Tools |
-| :--- | :--- | :--- | :--- |
-| **[The Adversarial Lifecycle: From Recon to Persistence](Project_3_Adversarial_Lifecycle/README.md)** | The full attack. Using **Nmap** for discovery, then **Metasploit** to exploit the flaws found in the Nessus scan. | **Completed** | Nmap, Kali Linux, Port Scanning, Service Versioning, Metasploit. |
-
-<br>
-
-## 🚀 Future Roadmap
-The following labs are slated for development following the completion of the **May** baseline sprint:
-* **Basic Web App Penetration Test:** Identifying common vulnerabilities (XSS, SQLi) in test applications using **Burp Suite Community**.
-* **Offline Password Cracking:** Performing dictionary attacks to retrieve plaintext passwords from captured hashes using **John the Ripper/Hashcat**.
-* **Wireless Security Audit:** Exploring WPA2/WPA3 vulnerabilities and capture-file analysis in a controlled environment.
+## Methodology
+In executing these offensive labs, I prioritize a controlled, structured approach to engagement:
+*   **Information Gathering:** Exhaustive reconnaissance and footprinting to accurately map the attack surface.
+*   **Vulnerability Analysis:** Systematic identification and classification of weaknesses prior to exploitation.
+*   **Precision Exploitation:** Utilizing targeted payloads to safely verify vulnerabilities while ensuring host stability.
 
 ---
 
-**Current Status:** The **Technical Bridge** baseline sprint (May 2026) is officially complete. Practical verification of PenTest+ theory via Nmap reconnaissance and Metasploit exploitation has been successfully executed and documented. I am currently engaged in a dense, international operatic touring schedule (June-August 2026) while actively focusing on the physical hardening of my primary home laboratory and the creation of a secure mobile environment.
+## Lab Documentation & Configurations
 
+| Project Title | Focus | Status | Key Tooling |
+| :--- | :--- | :--- | :--- |
+| **[The Adversarial Lifecycle: Recon to Exploitation](Project_3_Adversarial_Lifecycle/README.md)** | Executing a controlled attack path, utilizing Nmap for service discovery and Metasploit to verify vulnerabilities identified via Nessus. | **Documented** | Nmap, Kali Linux, Metasploit |
 
+---
+
+## Planned Development
+The following labs are slated for future deployment to broaden my offensive testing capabilities:
+*   **Web Application Testing:** Identifying common vulnerabilities (e.g., XSS, SQLi) within intentionally vulnerable test applications using Burp Suite Community.
+*   **Offline Password Cracking:** Performing dictionary attacks to retrieve plaintext passwords from captured hashes using Hashcat and John the Ripper.
+*   **Wireless Security Auditing:** Analyzing WPA2 capture files and exploring wireless vulnerabilities in a controlled environment.
