@@ -1,35 +1,31 @@
-# 🛡️ Foundational Scripts & Utilities
+# Foundational Scripts & Utilities
 
-<br>
-Welcome to the "Production Ready" zone of my scripting journey. 
-<br><br>
-This directory is reserved for polished Python and Bash utilities designed to solve specific security problems. These scripts demonstrate the practical application of core competencies—data parsing, file manipulation, and automation—essential for a <strong>Security Operations Center (SOC)</strong> role.
+This directory contains standalone Python and Bash scripts developed to perform specific data manipulation, text parsing, and basic administrative tasks. 
 
-## 🛠️ The Quality Standard
-In line with my **"Measure Four Times and Cut Once"** philosophy, every project listed here adheres to the following standards:
-* **Production-Ready:** Clean code that handles errors gracefully.
-* **Comprehensive Documentation:** Clear instructions on how to run and interpret the output.
-* **Logic-First:** Prioritising sound logical structure over unnecessary complexity.
+These utilities demonstrate the practical application of core programming competencies—specifically data extraction, file manipulation, and automation—relevant to security operations.
 
-<br>
-
-## 📂 Showcase Projects
-
-| Project Title | Goal | Key Skills Demonstrated | Status |
-| :--- | :--- | :--- | :--- |
-| **Log Ingestion & Parsing Tool** | A Python script that extracts key fields (IPs, timestamps) from raw logs and outputs structured data. | Python, File I/O, Regex, Error Handling. | **Planned: June-August 2026** |
-
-<br>
-
-## 🚀 Future Roadmap
-As my development roadmap expands, the following utilities are slated for production:
-* **Simple System Health Check:** A Bash script to audit security configurations (firewall, services) on a Linux host.
-* **Simple Hash Analyzer:** A script that generates SHA256 hashes for files to demonstrate cryptographic integrity using the `hashlib` library.
-* **Threat Intelligence IP Checker:** Integrating public threat feeds via API interaction.
-* **Automated Log Scheduler:** Implementing task scheduling for recurring security audits.
+## Development Standards
+Every project within this directory is developed with a strict focus on:
+*   **Error Handling:** Ensuring scripts fail gracefully and provide useful traceback output.
+*   **Documentation:** Providing clear instructions for execution and expected behavior.
+*   **Code Readability:** Prioritizing sound logical structure and clear variable naming over unnecessary complexity.
 
 ---
 
-**Current Status:** Focused on core Python logic maintenance. The development of the Log Ingestion & Parsing Tool as a primary foundational utility has been strategically rescheduled to the **June–August 2026** window to accommodate a heavy international performance cycle.
+## Applied Utilities
 
+| Project Title | Goal | Key Skills Demonstrated | Status |
+| :--- | :--- | :--- | :--- |
+| **Log Ingestion & Parsing Tool** | Extracting IPs and timestamps from raw logs to output structured data. | Python, File I/O, Regex, Error Handling. | **Planned Q1 2027** |
 
+---
+
+## Planned Development
+As foundational syntax knowledge solidifies, the following utilities are slated for development:
+*   **System Health Check:** A Bash utility to audit baseline security configurations (firewall rules, active services) on a Linux host.
+*   **Hash Analyzer:** A Python script utilizing the `hashlib` library to generate and verify SHA256 hashes for cryptographic file integrity.
+*   **Threat Intelligence IP Checker:** Integrating public threat feeds to automate IP reputation checks via API interaction.
+*   **Automated Log Scheduler:** Implementing cron and task scheduling for recurring security audits.
+
+---
+**Current Status:** Actively transitioning core syntax knowledge into functional scripts. The immediate focus is finalizing the Log Ingestion & Parsing Tool utilizing native file operations and Regular Expressions.
