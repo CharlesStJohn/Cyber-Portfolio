@@ -9,7 +9,7 @@ Rather than relying on advanced, pre-built automation frameworks, these reposito
 | Project Track | Focus | Description |
 | :--- | :--- | :--- |
 | [**Learning Python Journey**](./Learning_Python_Journey) | Foundational Syntax & Logic | A chronological record of programming exercises focusing on data structures, loops, functions, and file handling. |
-| [**Foundational Scripts & Utilities**](./Final_Scripts_Security) | Applied Python Tools | Standalone scripts developed for specific tasks, including text parsing, regex extraction, and basic log management. |
+| [**Utility Scripts**](./Utility_Scripts) | Applied Python Tools | Standalone scripts developed for specific tasks, including text parsing, regex extraction, and basic log management. |
 
 ---
 
@@ -17,4 +17,3 @@ Rather than relying on advanced, pre-built automation frameworks, these reposito
 *   **Code Integrity:** Writing clean, heavily commented code that prioritizes readability and basic exception handling over complexity.
 *   **Text & Log Processing:** Applying regular expressions (Regex) to parse, cleanse, and extract structured data from simulated logs.
 *   **Practical Utility:** Bridging the gap between theoretical syntax and functional administrative tools.
-
