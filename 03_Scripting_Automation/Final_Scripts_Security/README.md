@@ -1,4 +1,4 @@
-# Foundational Scripts & Utilities
+# Utility Scripts
 
 This directory contains standalone Python and Bash scripts developed to perform specific data manipulation, text parsing, and basic administrative tasks. 
 
