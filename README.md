@@ -1,85 +1,41 @@
-# 🛡️ The Singing Knight | Cybersecurity Operations & Analytics
+# Charles St John | Cybersecurity Portfolio
 
-> **Classical Discipline. Tactical Strategy. Technical Precision.**
+Welcome to my technical portfolio. 
 
-<br>Welcome to my professional portfolio.<br><br>
-This repository serves as a **living record of my technical evolution**, demonstrating how I apply the elite discipline of a **Professional Tenor** and the tactical strategy of a former **Great Britain international fencer** to the domain of Information Security.
+This repository serves as a working record of my transition into information security. It documents my practical application of defensive monitoring, vulnerability management, offensive testing methodologies, and foundational Python scripting. It acts as a functional bridge between my theoretical certifications and proof-of-concept labs. 
 
-## 🎓 Formally Validated Expertise
-My foundation is built upon the **CompTIA Cybersecurity Career Pathway**, representing a comprehensive understanding of the end-to-end security lifecycle:
+## Validated Certifications
+My technical foundation is built upon the full CompTIA Cybersecurity Pathway:
+* **CompTIA PenTest+** 
+* **CompTIA CySA+** 
+* **CompTIA Security+** 
+* **CompTIA Network+** 
+* **CompTIA A+** 
 
-* **CompTIA PenTest+** (Offensive Security Foundations)
-* **CompTIA CySA+** (Security Analytics)
-* **CompTIA Security+** (Security Fundamentals)
-* **CompTIA Network+** (Infrastructure & Networking)
-* **CompTIA A+** (Core Technical Support)
-
-**Professional Stackable Designations:**
-* **CSAP** (Security Analytics Professional)
-* **CNVP** (Network Vulnerability Professional)
-* **CNSP** (Network Security Professional)
-* **CSIS** (Secure Infrastructure Specialist)
-* **CIOS** (IT Operations Specialist)
+*(Professional Stackable Designations: CSAP, CNVP, CNSP, CSIS, CIOS)*
 
 ---
 
-## 🔗 Connect & Verify
-* **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/charlesftstjohn)
-* **Digital CV:** [Download CV (Direct Download)](https://github.com/TheSingingKnight/Cyber-Portfolio/raw/main/Charles_St_John_Cybersecurity_CV.docx)
+## Portfolio Structure & Projects
 
----
+This repository is divided into three core pillars. Each section contains documentation, configuration steps, and scripts from my proof-of-concept labs.
 
-## 🏛️ Portfolio Pillars: Development Roadmap
-
-This portfolio is structured to demonstrate both **certified theoretical knowledge** and my **hands-on learning journey**.<br>
-To maintain professional transparency, project status is updated according to my current development roadmap.
-
-| Pillar | Focus | Key Concepts & Tools | Status |
+| Pillar | Focus | Key Tooling | Status |
 | :--- | :--- | :--- | :--- |
-| [**1. Defensive Operations**](./01_Defensive_Operations) | Threat detection and monitoring. | Splunk, Sysmon, Nessus, CVSS. | **Completed (May 2026)** |
-| [**2. Offensive Operations**](./02_Offensive_Operations) | Reconnaissance and scanning. | Kali Linux, Metasploit, Nmap. | **Completed (May 2026)** |
-| [**3. Scripting & Automation**](./03_Scripting_Automation) | Learning journey & functional utilities. | Python (Logic & Flow), Bash. | **Active Revision** |
+| [**1. Defensive Operations**](./01_Defensive_Operations) | Threat detection, log ingestion, and SIEM monitoring. | Splunk, Sysmon, Nessus. | **Deployed** |
+| [**2. Offensive Operations**](./02_Offensive_Operations) | Reconnaissance, enumeration, and exploitation. | Kali Linux, Metasploit, Nmap. | **Deployed** |
+| [**3. Scripting & Utilities**](./03_Scripting_Automation) | Practical programming for data parsing and foundational logic. | Python, Bash. | **Active Revision** |
 
 ---
 
+## Current Technical Focus (Q4 2026)
 
-## 📡 Strategic Operational Status: 
+*   **Continuous Development:** Actively rigorously revising core networking and security fundamentals via TryHackMe to establish a rock-solid theoretical base before progressing into dedicated SOC Level 1 and Penetration Testing pathways.
+*   **Python Logic:** Securing foundational syntax, flow control, and building simple data-parsing utilities.
 
-**June – August 2026 (Current)**
-
-I am currently navigating a **High-Performance Hybrid** schedule, balancing a dense international operatic touring period with strategic upgrades to my technical infrastructure.
-
-* **🎭 Current Location:** International Touring (Base: Ripon and London, UK).
-* **🏛️ Completed The Technical Bridge (May 2026)**: Successfully executed and documented a 4-week "Cyber Range" operation, demonstrating the unified deployment of Splunk SIEM, Nessus vulnerability management, and Metasploit adversarial lifecycles. 
-* **🛠️ Active Mission: Infrastructure Hardening & Mobile SOC:** Actively implementing physical and operational hardening of my primary home cyber setup. Simultaneously engineering a secure, functional "Mobile SOC" to maintain technical readiness while away on location.
-* **🐍 Active Mission: Logic Revision:** Maintaining a "Methodical Maintenance" track during travel windows, focusing on the revision and reinforcement of foundational Python and scripting logic.
-* **🔭 Upcoming: Late Summer / Autumn Hiring Cycle (2026):** Shifting full focus toward securing a Junior Security Analyst or Consulting Academy role as the intensive performance season concludes. 
-<br>
-
-
-**May 2026 (Complete)**
-
-I am currently executing a High-Intensity Technical Sprint, applying the elite discipline of professional performance to the deployment of enterprise-grade security controls.  
-
-* **🎭 Current Location:** Ripon, UK (Utilising PC-based window between Diva Opera rehearsals and performances).  
-* **⚖️ Completed GRC Project:** Successfully implemented a cloud-based Data Integrity framework (Landlord Studio) for a property portfolio to meet UK MTD compliance. 
-* **🏛️ Active Mission:** The Technical Bridge (May 2026): A 4-week "Cyber Range" operation focused on the unified deployment of Splunk SIEM, Nessus vulnerability management, and Metasploit adversarial lifecycles.
-* **🔭 Upcoming: Heavy Performance Cycle, Home Setup Hardening + Mobile Setup Creation (June-August 2026):** An intensive, operatic summer schedule of international performances. Balancing my professional operatic commitments with implementing learned setups/techniques/hardware for my home cyber setup along with a mobile cyber setup for when away on location.
-<br>
-
-**March – April 2026 (Complete)**
-
-I am currently operating in a **High-Performance Hybrid** capacity, balancing elite professional obligations with targeted technical hardening. 
-
-* **🎭 Current Location:** London, UK (Relocated for **Diva Opera** *La Bohème* contract).
-* **⚖️ Active GRC Project:** Implementing a cloud-based Data Integrity framework (**Landlord Studio**) for a property portfolio to meet **UK Making Tax Digital (MTD)** compliance. 
-    * **Technical Focus:** Secure data migration, automated regulatory reporting, and financial feed integration.
-* **🔭 Upcoming: The Technical Bridge (May 2026):** A 4-week intensive desktop sprint dedicated to the deployment of **Splunk SIEM**, **Nessus** vulnerability management, and **Metasploit** adversarial labs.
-<br>
-
-
-> **Note for Recruiters:** I am specifically focusing on the **September 2026 (FY27)** intake cycle. While I’m primarily based in Ripon, I maintain a permanent London base which I am currently utilising for my operatic work—making me readily available for initial conversations or screening calls. I’d be delighted to discuss how my background in elite performance translates into a surgical approach to security.
-
-
+---
+## Connect
+* **LinkedIn:** [Charles St John](https://www.linkedin.com/in/charlesftstjohn)
+* **CV:** Available upon request.
 
 
