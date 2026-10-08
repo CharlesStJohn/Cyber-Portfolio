@@ -1,29 +1,20 @@
-# 🐍 Pillar 3: Scripting & Automation
+# Pillar 3: Scripting & Utilities
 
-<br>
-Welcome to the scripting hub of my portfolio.
-<br><br>
+This section documents my foundational programming development. The focus here is on securing core Python logic, understanding control flow, and building lightweight utilities for data parsing and file management. 
 
-This section is structured to demonstrate my **methodical approach** to technical development and the **practical utility** of my work in Python.
+Rather than relying on advanced, pre-built automation frameworks, these repositories demonstrate a methodical approach to learning raw syntax, prioritizing code readability, and applying basic scripting to security-adjacent tasks.
 
-## 📂 Project Tracks
+## Directory Structure
 
-### 🏛️ [Learning Python Journey](./Learning_Python_Journey)
-A granular record of my foundational steps into Python development.
-<br>
-These modules showcase:
-* **Core Logic:** Mastering syntax, flow control, and data structures.
-* **Methodical Growth:** A step-by-step documentation of the "Measure Four Times" learning process.
-* **Technical Discipline:** Demonstrating the commitment required to transition into a new technical language.
-
-### 🛡️ [Foundational Scripts & Utilities](./Final_Scripts_Security)
-Simple, functional tools built to solve specific tasks using core Python logic.
-<br>
-These projects focus on:
-* **Practical Utility:** Initial tools developed for basic data parsing and reconnaissance.
-* **Code Integrity:** Clean, commented code that prioritises readability and basic error handling.
-* **Logic over Complexity:** Demonstrating that a sturdy foundational base leads to reliable technical output.
+| Project Track | Focus | Description |
+| :--- | :--- | :--- |
+| [**Learning Python Journey**](./Learning_Python_Journey) | Foundational Syntax & Logic | A chronological record of programming exercises focusing on data structures, loops, functions, and file handling. |
+| [**Foundational Scripts & Utilities**](./Final_Scripts_Security) | Applied Python Tools | Standalone scripts developed for specific tasks, including text parsing, regex extraction, and basic log management. |
 
 ---
 
-**Current Status:** Active revision of foundational modules. I am currently engaged in a dense, international operatic touring schedule (June-August 2026) while actively focusing on the physical hardening of my primary home laboratory and the creation of a secure mobile environment.
+## Development Focus
+*   **Code Integrity:** Writing clean, heavily commented code that prioritizes readability and basic exception handling over complexity.
+*   **Text & Log Processing:** Applying regular expressions (Regex) to parse, cleanse, and extract structured data from simulated logs.
+*   **Practical Utility:** Bridging the gap between theoretical syntax and functional administrative tools.
+
